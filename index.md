@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 # William Hopman's First CS193 Lab
 
--I love that my CS193 TA inspires me to be even half as great a person as he is.
--I like that the class is simply designed to help me move aong in my success learning computer science, not to levy punishing coding problems on me :)
+-I love what an upstanding and inspiring figure my TA is!
+-I like that the class is simply designed to help me in learning comoputer science. It's just here to help!
 
 1. Numbered
 2. List
